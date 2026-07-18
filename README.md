@@ -1,2 +1,0 @@
-# -Accident-Prone-Road-Segment-Prediction-Traffic-Forecasting-Using-Machine-Learning-
-Accident-Prone Road Segment Prediction &amp; Traffic Forecasting Using Machine Learning is a machine learning-based transportation system that predicts accident-prone road segments and forecasts traffic conditions using historical traffic and accident data, enabling data-driven road safety and traffic management decisions.
