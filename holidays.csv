@@ -1,0 +1,14 @@
+date,city,is_holiday,holiday_type,festival_severity
+2023-01-01,Bengaluru,1,National Holiday,4
+2023-01-14,Bengaluru,1,National Holiday,3
+2023-01-26,Bengaluru,1,National Holiday,4
+2023-03-08,Bengaluru,1,National Holiday,2
+2023-03-22,Bengaluru,1,National Holiday,3
+2023-03-25,Bengaluru,1,National Holiday,4
+2023-04-07,Bengaluru,1,National Holiday,4
+2023-04-14,Bengaluru,1,National Holiday,2
+2023-04-22,Bengaluru,1,National Holiday,2
+2023-05-01,Bengaluru,1,National Holiday,3
+2023-08-15,Bengaluru,1,National Holiday,3
+2023-10-02,Bengaluru,1,National Holiday,2
+2023-12-25,Bengaluru,1,National Holiday,4
